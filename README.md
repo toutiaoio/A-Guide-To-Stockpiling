@@ -273,14 +273,17 @@
 普通人就提高冰箱空间利用率：
 
 小散货：袋装，写好日期，竖放
+
 ![alt_text](images/image6.png "image_tooltip")
 
 
 肉等无法压缩的：分好格子，写好日期
+
 ![alt_text](images/image5.png "image_tooltip")
 
 
 土豆，水果等，可做成土豆泥，果酱，极大节约空间
+
 ![alt_text](images/image4.png "image_tooltip")
 
 
