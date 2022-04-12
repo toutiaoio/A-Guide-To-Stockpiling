@@ -270,15 +270,15 @@
 普通人就提高冰箱空间利用率：
 
 小散货：袋装，写好日期，竖放
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/image6.png "image_tooltip")
 
 
 肉等无法压缩的：分好格子，写好日期
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/image5.png "image_tooltip")
 
 
 土豆，水果等，可做成土豆泥，果酱，极大节约空间
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/image4.png "image_tooltip")
 
 
 
@@ -427,9 +427,9 @@
 
 **注1**：阿司匹林、咖啡因、对乙酰氨基酚复方，也有片剂“复方对乙酰氨基酚片”，可手动组合取代）
 
-**注2**： 复合维生素、矿物质维生素缺乏（日常用，推荐多维元素片 (21) 或任何药店自有品牌）價格虛高，有效劑量低
+**注2**：复合维生素、矿物质维生素缺乏（日常用，推荐多维元素片 (21) 或任何药店自有品牌）價格虛高，有效劑量低
 
-**注3：**ORS 为重要腹泻药物。补水是腹泻的第一应对方案，对降低全球小儿腹泻死亡率起关键作用
+**注3**：ORS 为重要腹泻药物。补水是腹泻的第一应对方案，对降低全球小儿腹泻死亡率起关键作用
 
 使用自有品牌及通用名药物时价格不高，且有效剂量“低”是符合膳食推荐避免过量
 
@@ -476,7 +476,7 @@
 **配药频率**：提前1周，准备下一周，或者下两周
 
 **优势**：早中晚吃什么药，安排明白，不吃错。子女不在可以撑一撑
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/image7.png "image_tooltip")
 
 
 老人急症必备：
