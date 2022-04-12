@@ -1,8 +1,10 @@
 # 非常时期囤货手册
 
-来自推特网友集体编辑，无版权
+本仓库维护者：[周刊菌](https://vip.manong.io/)
+[拒绝焦虑，不妨从这份Newsletter开始！](https://mp.weixin.qq.com/s/j4ecrRVqhHZtJLiIPMCThA)
 
-（源自 [@shuilovesbooks](https://twitter.com/shuilovesbooks) [推文](https://twitter.com/shuilovesbooks/status/1512783540793925632)，审校主编：[@haoel](https://twitter.com/haoel)）
+本手册来自推特网友集体编辑，无版权。（源自 [@shuilovesbooks](https://twitter.com/shuilovesbooks) [推文](https://twitter.com/shuilovesbooks/status/1512783540793925632)，审校主编：[@haoel](https://twitter.com/haoel)）
+
 
 **说明**
 
