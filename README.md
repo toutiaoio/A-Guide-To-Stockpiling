@@ -273,17 +273,17 @@
 
 小散货：袋装，写好日期，竖放
 
-![alt_text](images/image6.png "image_tooltip")
+![alt_text](images/image1.png "image_tooltip")
 
 
 肉等无法压缩的：分好格子，写好日期
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/image2.png "image_tooltip")
 
 
 土豆，水果等，可做成土豆泥，果酱，极大节约空间
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/image3.png "image_tooltip")
 
 
 
@@ -481,7 +481,7 @@
 **配药频率**：提前1周，准备下一周，或者下两周
 
 **优势**：早中晚吃什么药，安排明白，不吃错。子女不在可以撑一撑
-![alt_text](images/image7.png "image_tooltip")
+![alt_text](images/image4.png "image_tooltip")
 
 
 老人急症必备：
